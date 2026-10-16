@@ -30,6 +30,7 @@ E-Commerce-Sales-Analytics/
 - Basic queries: SELECT, WHERE, ORDER BY
 - Aggregate functions: SUM, COUNT, AVG
 - GROUP BY
+- Case When
 - SQL joins
 - Subqueries
 - Common Table Expressions (CTEs)
